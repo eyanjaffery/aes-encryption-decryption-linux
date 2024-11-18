@@ -1,6 +1,4 @@
-Here’s the README.md file written in proper Markdown format for GitHub:
-
-# Backup Tool for FAA ARMT System
+# ENCRYPTION/DECRYPTION TOOL 
 
 A secure and efficient shell script tool for encrypting, compressing, decrypting, and decompressing files with checksum verification. This tool is designed as part of the **Federal Aviation Administration's (FAA) Airport Resource Management Tool (ARMT)** system to handle sensitive backups and ensure data integrity.
 
@@ -126,12 +124,7 @@ Generate a Checksum
 
 Log File
 
-All operations are logged in backup_tool.log. Example log entries:
-
-2024-11-17 14:32:01 - Script initiated by user eyan on eyanMacBookPro
-2024-11-17 14:32:15 - Encryption successful for file sensitive_data.backup
-2024-11-17 14:33:30 - Checksum verification passed for sensitive_data.backup.aes.zip
-2024-11-17 14:35:45 - Script completed by user eyan on eyanMacBookPro
+All operations are logged in backup_tool.log. 
 
 Customization
 
@@ -166,17 +159,7 @@ aescrypt Not Found
 
 	•	Install aescrypt via your package manager (brew, apt, etc.).
 
-Future Improvements
 
-	•	Add GUI support for better usability.
-	•	Implement email notifications on backup completion.
-	•	Add SFTP support for secure file transfers.
-
-License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-Contributing
 
 Contributions are welcome! Please follow these steps:
 	1.	Fork the repository.
@@ -187,13 +170,7 @@ Contributions are welcome! Please follow these steps:
 
 Contact
 
-For questions or feedback, please reach out to [your email] or create an issue on the GitHub repository.
+For questions or feedback, please reach out to [saj5611@psu.edu] or create an issue on the GitHub repository.
 
 ---
 
-### **What You Need to Update**
-1. Replace `https://github.com/yourusername/backup-tool.git` with your actual GitHub repository URL.
-2. Replace `[your email]` with your contact email address.
-3. Update any placeholder paths or examples as necessary.
-
-This `README.md` is formatted for GitHub and provides a clear explanation of the project, its setup, usage, and features. It should be ready for upload! Let me know if you'd like further adjustments.
