@@ -35,12 +35,12 @@ The tool requires the following commands to be installed:
 1. `aescrypt` - For file encryption and decryption.
 2. `zip` and `unzip` - For compression and decompression.
 3. `shasum` or `sha256sum` - For checksum generation and verification.
-4. A terminal application (macOS Terminal, iTerm2, etc.).
+4. A terminal application (macOS Terminal, bash, zsh, etc.).
 
 ### System Compatibility
 
-- **macOS**: Works on macOS Catalina and newer.
-- **Linux**: Tested on Ubuntu and Debian-based distributions.
+- **macOS**: Works on macOS Sequoia (15) and newer.
+- **Linux**: Tested on Kali Linux.
 
 ---
 
