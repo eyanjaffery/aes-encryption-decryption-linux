@@ -1,6 +1,6 @@
 # ENCRYPTION/DECRYPTION TOOL 
 
-A secure and efficient shell script tool for encrypting, compressing, decrypting, and decompressing files with checksum verification. This tool is designed as part of the **Federal Aviation Administration's (FAA) Airport Resource Management Tool (ARMT)** system to handle sensitive backups and ensure data integrity.
+A secure and efficient shell script tool for encrypting, compressing, decrypting, and decompressing files with checksum verification. This tool is designed to handle sensitive backups and ensure data integrity.
 
 ---
 
